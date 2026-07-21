@@ -1,15 +1,16 @@
-<h1>Creating Users, Groups, and OUs.</h1>
+<h1>Adding Users and Groups to Active Directory.</h1>
 
 
 <h2>Description</h2>
-Project consists of creating Users, Groups, and organizational units(OUs) in Active Directory.
+Project consists of creating and adding Users and Groups in Active Directory.
 <br />
 
 
 <h2>Technologies Used </h2>
 
 - <b>Windows Server 2022</b> 
-- <b>Active Directory Domain Services</b> 
+- <b>Active Directory Domain Services</b>
+- <b>Windows Powershell</b>
 
 <h2>Project walk-through:</h2>
 
